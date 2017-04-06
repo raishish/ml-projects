@@ -1,3 +1,11 @@
+'''
+A modified VGG Bottleneck model to classify dogs in the Stanford Dogs dataset.
+
+Approach 3.
+For more details, see the IPython notebook Stanford_Dogs.ipynb in the ipython_notebooks directory.
+'''
+
+# required libraries
 import numpy as np
 import math
 from keras.preprocessing.image import ImageDataGenerator

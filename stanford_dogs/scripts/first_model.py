@@ -1,5 +1,8 @@
 '''
 A shallow CNN to see if the classifier's working
+
+Approach 1.
+For more details, see the IPython notebook Stanford_Dogs.ipynb in the ipython_notebooks directory.
 '''
 
 from keras.preprocessing.image import ImageDataGenerator
